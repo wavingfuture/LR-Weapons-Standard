@@ -1,6 +1,7 @@
 title: Lightning Returns Standard Weapon Pack
 originalAuthor: wavingfuture
 description: A varied collection of the standard purchasable weapons (and Ultima Weapon) from Lightning Returns FFXIII. Replaces all keyblades, including the additional GoA keyblades.
+game: kh2
 dependencies: 
 assets:
 - name: dll/KH2Moose.dll
